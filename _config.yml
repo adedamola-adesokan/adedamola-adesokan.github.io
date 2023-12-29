@@ -20,12 +20,12 @@ show-nav-menu: true
 nav-menu:
 - text: About
   permalink: about
-- text: Certifications
-  permalink: certifications
-- text: Publications
-  permalink: publications
 - text: Education
   permalink: education
+- text: Publications
+  permalink: publications
+- text: Certifications
+  permalink: certifications
 - text: Honors and Awards
   permalink: honors_and_awards
 
