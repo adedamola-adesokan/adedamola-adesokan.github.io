@@ -26,23 +26,25 @@ nav-menu:
   permalink: publications
 - text: Education
   permalink: education
+- text: Honors and Awards
+  permalink: honors_and_awards
 
 # use false to turn off any social media links
-# twitter: https://twitter.com/
-# facebook: https://facebook.com/
-# instagram: https://instagram.com/
+twitter: false
+facebook: false
+instagram: false
 github: https://github.com/adedamola-adesokan/
 linkedin: https://linkedin.com/adedamola-adesokan/ 
 medium: false
 google-scholar: https://scholar.google.com/citations?user=kmaNZ5IAAAAJ&hl=en
 email: adesokanphilip74@unm.edu
 
-# footer information
-footer-msg: "Powered by Tailpages"
-footer-msg-link: https://github.com/harrywang/tailpages
+# # footer information
+# footer-msg: "Powered by Tailpages"
+# footer-msg-link: https://github.com/harrywang/tailpages
 
-# google analytics
-google-analytics: G-WCRC1TC2V5
+# # google analytics
+# google-analytics: G-WCRC1TC2V5
 
 # jekyll plugins - no need to change
 plugins:
