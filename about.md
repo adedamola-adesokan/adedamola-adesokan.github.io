@@ -1,9 +1,4 @@
 ---
-layout: page
-title: About
-permalink: about
----
-<!-- ---
 permalink: /
 title: "About Me"
 excerpt: "About Me"
@@ -11,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----  -->
+---
 <p align="center"> &nbsp;<img src="https://adedamola-adesokan.github.io/assets/img/unm-ece-logo.png" alt="Photo" style="width: 250px;"></p>
 
 <ul>
