@@ -24,6 +24,8 @@ nav-menu:
   permalink: certifications
 - text: Publications
   permalink: publications
+- text: Education
+  permalink: education
 
 # use false to turn off any social media links
 # twitter: https://twitter.com/
