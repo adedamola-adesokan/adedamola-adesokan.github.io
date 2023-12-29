@@ -5,6 +5,7 @@ permalink: certifications
 ---
 
 * <a href="https://www.credly.com/badges/78ed0c84-9c5d-455a-9d4d-a2f1c48f1e99/linked_in_profile" target="_blank">Certified Information Systems Security Professional (CISSP) </a>
+* <a href="https://google.accredible.com/e9ea54f7-470d-4b53-90ec-51a20c86cb7b" target="_blank">Google Cloud Certified Professional Cloud Security Engineer</a>
 * <a href="https://www.credly.com/earner/earned/badge/fa6e9d09-0eaa-48fe-a1a5-ca418ddd428d" target="_blank">CompTIA Cyber Security Analyst (CySA+) </a>
 * <a href="https://www.credly.com/earner/earned/badge/7cf7972a-d568-4691-addb-372868d7f01c" target="_blank"> CompTIA Security Analytics Professional (CSAP)</a>
 * <a href="https://www.credly.com/earner/earned/badge/ac92fc15-1974-4841-938a-d490a7933096" target="_blank">AWS Certified Cloud Practitioner </a>
