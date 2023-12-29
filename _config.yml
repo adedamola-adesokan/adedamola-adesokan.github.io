@@ -11,7 +11,7 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Adedamola Adesokan
-author-bio: Cybersecurity Engineer  # change to false to hide
+author-bio: Senior Cybersecurity Engineer with a robust background in application security, vulnerability assessment, penetration testing, GRC and cloud security. Proven expertise in implementing security protocols and managing cybersecurity projects across various industries to align with business objectives.  # change to false to hide
 author-image: Image.jpg  # file must be in the /assets/img/ folder
 
 # navigation menu
@@ -26,9 +26,9 @@ nav-menu:
   permalink: publications
 
 # use false to turn off any social media links
-twitter: https://twitter.com/
-facebook: https://facebook.com/
-instagram: https://instagram.com/
+# twitter: https://twitter.com/
+# facebook: https://facebook.com/
+# instagram: https://instagram.com/
 github: https://github.com/
 linkedin: https://linkedin.com/
 medium: false
