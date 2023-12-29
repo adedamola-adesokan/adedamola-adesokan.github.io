@@ -11,8 +11,8 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Adedamola Adesokan
-author-bio: PhD | Research and Development | Cybersecurity | CISSP | Cloud Engineering | DevSecOps | AppSec # change to false to hide
-author-image: Image.jpg  # file must be in the /assets/img/ folder
+author-bio: PhD Student | Research and Development | Cybersecurity | CISSP | Cloud Engineering | DevSecOps | AppSec # change to false to hide
+author-image: image_1.jpg  # file must be in the /assets/img/ folder
 
 # navigation menu
 show-nav-menu: true
