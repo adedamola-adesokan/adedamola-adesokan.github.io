@@ -7,7 +7,7 @@ permalink: publications
 <H2>Journal Publications</H2>
 
 <ol>
-   <li><p align="justify"><b>Adesokan, A.</b>,Kinney, R.; Tsiropoulou, E. E. CROWDMATCH: Optimizing Crowdsourcing Matching through the Integration of Matching Theory and Coalition Games. Future Internet 2022, 1, 0. https://doi.org/. Under Review</p></li>
+   <li><p align="justify"><b>Adesokan, A.</b>,Kinney, R.; Tsiropoulou, E. E. CROWDMATCH: Optimizing Crowdsourcing Matching through the Integration of Matching Theory and Coalition Games. Future Internet 2022, 1, 0. https://doi.org/. Accepted</p></li>
   <!-- <li><p align="justify"><b>M. S. Siraj</b>, A. B. Rahman, M. Diamanti, E. E. Tsiropoulou and S. Pavassiliou, "Alternative Positioning, Navigation, and Timing enabled by Games in Satisfaction Form and Reconfigurable Intelligent Surfaces", IEEE Systems Journal. (Accepted)</p></li> -->
 </ol>
 
